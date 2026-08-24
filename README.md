@@ -54,10 +54,10 @@ petshop/
 - HTML5 (sem CSS/Bootstrap, sem JavaScript)
 
 ## Autor
-[Seu nome aqui]
+[Pedro Miguel de Carvalho Jovanowichs]
 
 ## Link do repositório GitHub
-[inserir link aqui após publicação]
+https://github.com/pedrojovanowichs-tech/pedrojovanowichs-tech.github.io
 
 ## Link do GitHub Pages
-[inserir link aqui após publicação]
+https://pedrojovanowichs-tech.github.io/
